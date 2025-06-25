@@ -1,0 +1,29 @@
+COURSE_CODE,COURSE_NAME,CRS_CREDIT,DEPT_CODE
+ACCT-211,"Accounting I",3,ACCT
+ACCT-212,"Accounting II",3,ACCT
+ACCT-311,"Managerial Accounting",3,ACCT
+ART-210,"Intro. to Art",3,ART
+ART-340,"Jewelry Design",3,ART
+BIOL-120,"Intro. to Biology",4,BIOL
+BIOL-220,"Biology and the Environment",4,BIOL
+CIS-220,"Intro. to Microcomputing",3,CIS
+CIS-320,"Spreadsheet Applications",3,CIS
+CIS-370,"Intro. to Systems Analysis",3,CIS
+CIS-420,"Database Design and Implementation",4,CIS
+ECON-240,Microeconomics,3,ECON/FIN
+ECON-250,Macroeconomics,3,ECON/FIN
+ENG-210,Writing,3,ENG
+ENG-220,Literature,3,ENG
+FIN-300,"Money and Banking",3,ECON/FIN
+HIST-210,"U.S. History Through the 1800s",3,HIST
+HIST-220,"U.S. History Through the 1900s",3,HIST
+MATH-120,"College Algebra I",3,MATH
+MATH-240,"Intro. to Calculus",4,MATH
+MATH-243,"Mathematics for Managers",3,MATH
+MGT-340,"Intro. to Management",3,MKT/MGT
+MKT-360,"Intro. to Marketing",3,MKT/MGT
+PSYCH-200,"Intro. to Psychology",3,PSYCH
+QM-261,"Intro. to Statistics",3,CIS
+QM-362,"Statistical Applications",4,CIS
+SOC-200,"Intro. to Sociology",3,SOC
+SPCH-240,"Public Speeking",3,ENG

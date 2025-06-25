@@ -1,0 +1,12 @@
+DEPT_CODE,DEPT_NAME,EMP_NUM,DEPT_ADDRESS,DEPT_EXTENSION
+ACCT,Accounting,114,"KLR 211, Box 52",3119
+ART,"Fine Arts",435,"BBG 185, Box 128",2278
+BIOL,Biology,387,"AAK 230, Box 415",4117
+CIS,"Computer Info. Systems",209,"KLR 333, Box 56",3245
+ECON/FIN,Economics/Finance,299,"KLR 284, Box 63",3126
+ENG,English,160,"DRE 102, Box 223",1004
+HIST,History,103,"DRE 156, Box 284",1867
+MATH,Mathematics,297,"AAK 194, Box 422",4234
+MKT/MGT,Marketing/Management,106,"KLR 126, Box 55",3342
+PSYCH,Psychology,195,"AAK 297, Box 438",4110
+SOC,Sociology,342,"BBG 208, Box 132",2008
